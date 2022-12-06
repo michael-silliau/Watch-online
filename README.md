@@ -1,12 +1,5 @@
 ### Vue project
 
-This project shows how to add Vue to a HTML page.
+Voici mon projet vue js 
+https://michael-silliau.github.io/Watch-online/
  
-
-#### Start Sass 
-* `npm run sass`
-
-
-##### Left to do :
-* Watch List
-* Shopping cart 
